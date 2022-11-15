@@ -3,7 +3,7 @@
    <application
         android:label="Trash Induc"
         android:name="${applicationName}"
-        android:icon="@mipmap/img">
+        android:icon="@mipmap/logoLauncer">
         <activity
             android:name=".MainActivity"
             android:exported="true"
