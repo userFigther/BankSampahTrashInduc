@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098050142501",
+    "project_id": "trash-induc-df58f",
+    "storage_bucket": "trash-induc-df58f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098050142501:android:f54b493b82463afead1acc",
+        "android_client_info": {
+          "package_name": "com.example.trash_induc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098050142501-j3pqsad1981rh6a7nd8bu0hmts8079pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvLdySTWL6qHUurafXhGzndjvMLYq0c54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098050142501-j3pqsad1981rh6a7nd8bu0hmts8079pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
